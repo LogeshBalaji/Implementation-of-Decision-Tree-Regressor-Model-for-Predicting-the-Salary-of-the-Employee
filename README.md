@@ -68,7 +68,7 @@ plt.show()
 # R2 (Variance):
 ![Screenshot 2024-11-23 224842](https://github.com/user-attachments/assets/84de57ce-7854-477a-9cb8-2d1263caf33f)
 # DATA PREDICTION & DECISION TREE REGRESSOR FOR PREDICTING THE SALARY OF THE EMPLOYEE:
-![Screenshot 2024-11-23 224826](https://github.com/user-attachments/assets/897ebf73-d075-4c9b-826a-746d434c2f1f)
+![Screenshot 2024-11-23 234126](https://github.com/user-attachments/assets/cc97cd9f-cbe1-4265-8f9e-36ba356a5e74)
 
 ![Screenshot 2024-11-23 224747](https://github.com/user-attachments/assets/ea60afb4-d70c-44fc-b5a7-f1ecc4118d66)
 
