@@ -24,7 +24,7 @@ Developed by: Logesh B
 RegisterNumber:  24900577
 */
 ```
-~~~
+```.py
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeClassifier, plot_tree
@@ -53,7 +53,7 @@ dt.predict([[5,6]])
 plt.figure(figsize=(20, 8))
 plot_tree(dt, feature_names=x.columns, filled=True)
 plt.show()
-~~~
+```
 ## Output:
 # head()
 ![Screenshot 2024-11-23 224957](https://github.com/user-attachments/assets/c4cc769b-7fdb-4769-a68b-69d3c350367d)
